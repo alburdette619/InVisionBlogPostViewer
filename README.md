@@ -10,3 +10,8 @@ This app downloads a static JSON document and renders each of the provided blog 
 * cd to the root directory of the app
 * Execute ```yarn/npm install```
 * Execute ```react-native run-ios/run-android```
+
+---
+
+### Testing the app
+Simply run jest in the root directory of the app to have the snapshots generated.
